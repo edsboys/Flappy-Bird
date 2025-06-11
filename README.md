@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
@@ -16,3 +17,7 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## Dependency Management
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+=======
+# Flappy-Bird
+Flappy Bird Clone is a simple yet challenging arcade-style game built in Java. Players control a bird, navigating obstacles and maintaining flight with responsive tap mechanics. Featuring randomized pipes, collision detection, and smooth animations, this game delivers an engaging experience powered by Java's Graphics, event handling, and game logic
+>>>>>>> 285acb336950211bf984ee2b1dd3caba7f567d84
