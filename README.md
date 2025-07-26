@@ -1,23 +1,43 @@
-<<<<<<< HEAD
-## Getting Started
+# 🐦 Flappy Bird Clone – Java Edition
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A simple clone of the classic **Flappy Bird** game, developed in **Java** using **Java 2D Graphics** and **AWT/Swing** libraries. The game mimics the original’s gameplay mechanics: tap to fly, avoid pipes, and try not to rage quit.
 
-## Folder Structure
+## 🎮 Features
 
-The workspace contains two folders by default, where:
+- 🕹️ Player-controlled bird using spacebar to flap
+- 🌲 Randomly generated pipe obstacles
+- 🧠 Collision detection (bird + pipes + ground)
+- 💯 Score tracking
+- 🔁 Endless gameplay loop
+- 👀 Retro pixel aesthetic
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 🛠️ Built With
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Java SE (Standard Edition)
+- Java AWT and Swing for GUI
+- Java 2D Graphics
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🚀 How to Run
 
-## Dependency Management
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/edsboys/flappy-bird.git
+   cd flappy-bird-java
+2. Compile the code:
+   ```bash
+   javac FlappyBird.java
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-=======
-# Flappy-Bird
-Flappy Bird Clone is a simple yet challenging arcade-style game built in Java. Players control a bird, navigating obstacles and maintaining flight with responsive tap mechanics. Featuring randomized pipes, collision detection, and smooth animations, this game delivers an engaging experience powered by Java's Graphics, event handling, and game logic
->>>>>>> 285acb336950211bf984ee2b1dd3caba7f567d84
+3. Run the game:
+   ```bash
+   java FlappyBird
+
+🧑‍💻 Author
+Mpho Matseka
+Built as part of my Java learning journey at VUT 🎓
+
+📝 License
+This project is open-source and free to use for learning purposes.
+
+
+Let me know if you want a version with a **GIF demo**, GitHub badge flair (like stars or forks), or if you want it tailored for a **portfolio website**. Also, drop your GitHub username if you want me to link it in the author section 🔗
+
